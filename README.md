@@ -19,7 +19,7 @@ To clean the raw accident data and build a dashboard that answers questions such
 
 ## 📊 Project Dashboard Overview
 
-![Road Accident Dashboard](dashboard.png)
+![Road Accident Dashboard](SS/dashboard.png)
 
 ## 🛠️ Tools and Technologies
 
